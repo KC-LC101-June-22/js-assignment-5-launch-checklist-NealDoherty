@@ -36,8 +36,7 @@ function validateInput(testInput) {
     }
     else {
       response = 'Validation Failed';
-    }
-    console.log(response);
+    } 
 
     return response;
    
@@ -143,11 +142,11 @@ function pickPlanet(planets) {
 
 
 
-
+/*
 module.exports.addDestinationInfo = addDestinationInfo;
 module.exports.validateInput = validateInput;
 module.exports.formSubmission = formSubmission;
 module.exports.pickPlanet = pickPlanet; 
 module.exports.myFetch = myFetch;
-
+*/
 
