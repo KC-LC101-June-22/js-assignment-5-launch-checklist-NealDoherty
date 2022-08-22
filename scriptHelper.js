@@ -142,10 +142,19 @@ function pickPlanet(planets) {
 
 
 
-/*
+
 module.exports.addDestinationInfo = addDestinationInfo;
 module.exports.validateInput = validateInput;
 module.exports.formSubmission = formSubmission;
 module.exports.pickPlanet = pickPlanet; 
 module.exports.myFetch = myFetch;
-*/
+
+/*
+module.exports = {
+    addDestinationInfo: addDestinationInfo,
+    validateInput: validateInput,
+    formSubmission : formSubmission,
+    pickPlanet: pickPlanet,
+    myFetch: myFetch
+ }
+ */
